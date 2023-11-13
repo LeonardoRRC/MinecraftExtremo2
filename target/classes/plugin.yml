@@ -1,0 +1,17 @@
+name: MineExtermo2
+version: '1.0-SNAPSHOT'
+main: me.meowquantum.com.mineextermo2.MineExtermo2
+api-version: '1.20'
+author: TheBoykissOld
+commands:
+  revive:
+    permission: mcextremo.revive
+  addlife:
+    permission: mcextremo.addlife
+  nextreset:
+  ayuda:
+permissions:
+  mcextremo.addlife:
+    default: op
+  mcextremo.revive:
+    default: op
